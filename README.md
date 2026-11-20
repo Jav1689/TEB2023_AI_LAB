@@ -1,7 +1,5 @@
 # TEB2023 AI Lab
 
-This repository contains my Artificial Intelligence lab scripts, datasets, results and tutorial assignments.
-
 ## Lab experiments
 
 | Lab | Topic | Python script | Dataset | Results |
